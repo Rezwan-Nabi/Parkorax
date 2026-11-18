@@ -1,0 +1,25 @@
+{
+  "expo": {
+    "name": "ParkoraX",
+    "slug": "parkorax",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "backgroundColor": "#FFFFFF",
+    "splash": {
+      "backgroundColor": "#0F1E3D"
+    },
+    "android": {
+      "package": "com.parkorax.prototype",
+      "edgeToEdgeEnabled": true,
+      "permissions": []
+    },
+    "ios": {
+      "bundleIdentifier": "com.parkorax.prototype",
+      "supportsTablet": false
+    },
+    "web": {
+      "bundler": "metro"
+    }
+  }
+}
